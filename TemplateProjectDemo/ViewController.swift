@@ -6,12 +6,13 @@
 //
 
 import UIKit
+import TemplateProject
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        "Hello".printMe()
     }
 
 
